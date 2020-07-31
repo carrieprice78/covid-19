@@ -20,7 +20,7 @@
 * [Pennsylvania Department of Health](https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx)
 * [District of Columbia Coronavirus](https://coronavirus.dc.gov/)
 
-#Preprints and Open Access
+# Preprints and Open Access
 
 The Wellcome Trust maintains a list of [publishers making coronavirus content freely available and reusable](https://wellcome.ac.uk/press-release/publishers-make-coronavirus-covid-19-content-freely-available-and-reusable).
 

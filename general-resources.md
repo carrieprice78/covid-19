@@ -19,3 +19,16 @@
 * [Virginia Department of Health](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/)
 * [Pennsylvania Department of Health](https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx)
 * [District of Columbia Coronavirus](https://coronavirus.dc.gov/)
+
+#Preprints and Open Access
+
+The Wellcome Trust maintains a list of [publishers making coronavirus content freely available and reusable](https://wellcome.ac.uk/press-release/publishers-make-coronavirus-covid-19-content-freely-available-and-reusable).
+
+See also:
+
+* [COVID-19 Preprints from medRxiv and bioRxiv](http://connect.medrxiv.org/relate/content/181)
+* [OutbreakSci PreReview](https://outbreaksci.prereview.org/)
+
+Use the [Unpaywall Browser Extension](https://unpaywall.org/products/extension) to access open versions of research.
+
+

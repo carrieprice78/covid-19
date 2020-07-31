@@ -14,8 +14,8 @@
 # Local Government Resources
 
 * [Maryland Department of Health](https://coronavirus.maryland.gov/)
-  ** [Baltimore City COVID-19 Dashboard](https://coronavirus.baltimorecity.gov/)
-  ** [Baltimore City Food Distribution Sites](https://baltimore.maps.arcgis.com/apps/Nearby/index.html?appid=32ce54bc99e746f5bc4c386208cee3e7)
+  * [Baltimore City COVID-19 Dashboard](https://coronavirus.baltimorecity.gov/)
+  * [Baltimore City Food Distribution Sites](https://baltimore.maps.arcgis.com/apps/Nearby/index.html?appid=32ce54bc99e746f5bc4c386208cee3e7)
 * [Virginia Department of Health](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/)
 * [Pennsylvania Department of Health](https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx)
 * [District of Columbia Coronavirus](https://coronavirus.dc.gov/)

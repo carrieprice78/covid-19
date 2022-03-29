@@ -2,7 +2,7 @@
 
 * [CDC Prevention and Treatment](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html)
 * [CDC How to Clean and Disinfect](https://www.cdc.gov/coronavirus/2019-ncov/community/home/cleaning-disinfection.html#disinfect)
-* [CDC COVID-19 Facts](https://www.cdc.gov/coronavirus/2019-ncov/about/share-facts.html)
+
 * [Medline Plus Coronavirus Infections](https://medlineplus.gov/coronavirusinfections.html)
 * [Johns Hopkins Bloomberg School of Public Health Expert Reality Check](https://www.globalhealthnow.org/2020-02/coronavirus-expert-reality-check)
 * [Hopkins Medicine: Facts from Medical Experts](https://www.hopkinsmedicine.org/coronavirus)
